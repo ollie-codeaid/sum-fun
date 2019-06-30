@@ -1,5 +1,6 @@
 {
   "name": "sum-fun",
+  "homepage" : "http://ollie-codeaid.github.io/sum-fun",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
